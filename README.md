@@ -29,7 +29,6 @@ Welcome to my GitHub! 🚀
 
 ## 📫 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🐦 [Twitter](https://twitter.com/yourhandle)  
-- 🌐 [Portfolio](https://yourportfolio.com)  
+- 🌐 [Portfolio](https://www.linkedin.com/in/ashish-kumar-8b8779269/)  
 
 ⭐ **Fun Fact:** I love experimenting with AI & building cool stuff! 😎  
