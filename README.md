@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hey there! I'm Ashish  
+Welcome to my GitHub! 🚀  
 
-<!--
-**ashishkum25/ashishkum25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 About Me  
+- 💻 Full-Stack Developer | MERN Stack Enthusiast  
+- 🤖 Passionate about AI & Machine Learning  
+- 📡 Working on real-time tracking & chat apps  
+- 🎓 Student & Open Source Contributor  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
+- **Frontend:** React, Vite, Tailwind CSS ⚡  
+- **Backend:** Node.js, Express.js, Socket.io 🛠️  
+- **Database:** MongoDB, Firebase 🔥  
+- **AI/ML:** Python, TensorFlow, EfficientNetB2 🤖  
+- **Other:** Docker, GitHub Actions, CI/CD 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects  
+### 🌍 [TripNStay](https://github.com/ashishkum25/TripNStay) - Airbnb Clone  
+- 🏡 Full-stack web app for vacation rentals  
+- 🛒 Booking system with payment integration  
+
+### ⚡ Real-time Device Tracking  
+- 📍 Live location tracking with WebSockets  
+- 🌎 Map integration with dynamic updates  
+
+### 🔥 AI Chat App  
+- 🤖 Tag AI to answer coding doubts  
+- 💬 Real-time chat using Socket.io  
+
+## 📫 Let's Connect  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 🐦 [Twitter](https://twitter.com/yourhandle)  
+- 🌐 [Portfolio](https://yourportfolio.com)  
+
+⭐ **Fun Fact:** I love experimenting with AI & building cool stuff! 😎  
