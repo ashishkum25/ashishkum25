@@ -28,7 +28,7 @@ Welcome to my GitHub! 🚀
 - 💬 Real-time chat using Socket.io  
 
 ## 📫 Let's Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🌐 [Portfolio](https://www.linkedin.com/in/ashish-kumar-8b8779269/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashish-kumar-8b8779269/)  
+- 🌐 [Portfolio]()  
 
 ⭐ **Fun Fact:** I love experimenting with AI & building cool stuff! 😎  
